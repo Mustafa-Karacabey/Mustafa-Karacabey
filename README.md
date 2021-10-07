@@ -31,7 +31,7 @@ I'm working on both client-side and server-side development with several of prog
 
 - 🔭 I’m currently working on https://www.hepsiburada.com/
 - 💻 All of my projects are available at https://github.com/Mustafa-Karacabey and https://gitlab.com/MustafaKARACABEY
-- 📫 You can reach me mustafa.karacabey.engineer@gmail.com
+- 📫 You can reach me at discord MustafaKARACABEY#2919
 
 -💬 Ask me about Software Engineering, BackEnd Development, FrontEnd Development, Android Development
 
